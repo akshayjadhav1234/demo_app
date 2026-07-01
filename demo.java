@@ -13,6 +13,7 @@ public void getName(){
 
     //jira 102 story
     public Integer getInt(){
+        String name="java";
         return 1;
     }
 }
