@@ -1,5 +1,11 @@
 class Xyz{
 
+
+//jira 101 story
+public void getName(){
+    System.out.println("Hello akshay");
+}
+
     String name="akshay";
 
     String name1="sam";
