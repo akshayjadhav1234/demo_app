@@ -7,6 +7,7 @@ public void getName(){
 }
 
     String name="akshay";
+    String name1="sumit";
 
     String name1="sam";
     int a=8;
