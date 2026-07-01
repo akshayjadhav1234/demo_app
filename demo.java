@@ -14,6 +14,7 @@ public void getName(){
 
     //jira 102 story
     public Integer getInt(){
+        int a=2;
         return 1;
     }
 }
