@@ -3,6 +3,7 @@ class Xyz{
 
 //jira 101 story
 public void getName(){
+int b;
     String name="akshay";
     System.out.println("Hello akshay");
 }
